@@ -1,0 +1,135 @@
+b.bold_blue {
+	color: rgba(0, 0, 255, 0.9);
+}
+
+b.bold_coomeva {
+	color: rgba(42, 88, 11, 0.9);
+}
+
+b.bold_tmk {
+	color: rgba(255, 0, 0, 0.9);
+}
+b.texto3 {
+    color: #ff0000;;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+div.autorizacion_poliza_individual {
+	background-color: rgba(175, 208, 212, 0.1);
+	padding: 10px 10px 0 10px;
+	border: 1px solid rgba(50, 50, 50, 0.2);
+	border-radius: 10px;
+	margin: 0 0 15px 0;
+}
+
+div.si_no {
+	width: 100px;
+	margin: 0 auto;
+}
+
+div#guion_seleccionar {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+div.ocultar {
+	display: none;
+}
+
+fieldset.a {
+        border-radius: 10px;
+        margin: 10px;
+        padding: 10px;
+		background-color: rgba(230, 230, 230, 0.1);
+}
+font.blue {
+	color: rgba(0, 0, 255, 0.9);
+}
+	
+legend.b {
+        margin: 0 0 0 5px;
+		background-color: rgb(255, 255, 255);
+   }
+
+p {
+        margin: 0 0 15px 0;
+        font-size: 13px;
+		text-align: justify;
+		font-family: arial,sans-serif;
+}
+
+p.texto3 {
+    color: #FF9900;
+    font-size: 15px;
+    font-weight: bold;
+	font-family: arial,sans-serif;
+}
+
+table.t {
+	border: 0;
+	width: 100%;
+}
+
+table.datos {
+	width: 100%;
+	font-size: 12px;
+	font-family: Arial,Verdana,Helvetica,sans-serif;
+	margin-bottom: 50px;
+}
+
+td.nombre{
+	background-color: #dddddd;
+	border: 1px solid #bbbbbb;
+	font-size: 11px;
+	font-weight: bold;
+	padding: 2px 3px 2px 0;
+	text-align: right;
+	width: 100px;
+}
+
+td.descripcion {
+	border: 1px solid #BBBBBB;
+    font-family: verdana,arial,sans-serif;
+    font-size: 11px;
+    padding: 2px 0 2px 3px;
+    width: 200px;
+}
+
+td > p {
+	text-align: center;
+	padding: 1px;
+	margin: 0;
+	font-family: arial,sans-serif;
+	
+}
+
+tr.campo {
+    background: none repeat scroll 0 0 #E6EECA;
+    color: #7AA050;
+    font-family: Verdana,Geneva,Arial,Helvetica,sans-serif;
+    font-size: 10px;
+    font-weight: normal;
+}
+
+tr.campo1 {
+    background: none repeat scroll 0 0 #B9D372;
+    color: #FFFFFF;
+    font-family: Verdana,Geneva,Arial,Helvetica,sans-serif;
+    font-size: 11px;
+    font-weight: normal;
+}
+
+tr.campo2 {
+    background: none repeat scroll 0 0 #7AA050;
+    color: #FFFFFF;
+    font-family: Verdana,Geneva,Arial,Helvetica,sans-serif;
+    font-size: 11px;
+    font-weight: normal;
+	width: 80%;
+}
+
+ul.list {
+	list-style: circle;
+    padding: 10px 10px 10px 40px;
+}
